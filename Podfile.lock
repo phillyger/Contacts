@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Argo (3.0.1)
+  - Curry (2.3.1)
+  - Delta (1.0.0)
+  - ReactiveCocoa (4.2.1):
+    - Result (~> 2.0)
+  - Result (2.1.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Argo
+  - Curry
+  - Delta (from `https://github.com/thoughtbot/Delta.git`)
+  - ReactiveCocoa
+
+EXTERNAL SOURCES:
+  Delta:
+    :git: https://github.com/thoughtbot/Delta.git
+
+CHECKOUT OPTIONS:
+  Delta:
+    :commit: 5c2e5f11bc46158dd6e1dc0e4dba54e7e67d8149
+    :git: https://github.com/thoughtbot/Delta.git
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Argo: 22c5d62b7967020a641468c91dc9488bea9523b8
+  Curry: c8f65c8ade091aad5cb86f7b51dd408d698810ca
+  Delta: 35694e6e06a7e5d9dd8a25f3b0768ed66c0579c5
+  ReactiveCocoa: 5a42745f11ea236f405bb9ce5e97c5e3b23562dd
+  Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
+
+PODFILE CHECKSUM: a10336f0694f70fe8bfbbfe01abf7569d0f62641
+
+COCOAPODS: 1.0.1

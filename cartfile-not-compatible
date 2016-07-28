@@ -1,0 +1,10 @@
+github "ReactiveCocoa/ReactiveCocoa" "v4.2.1"
+#github "Alamofire/Alamofire"
+github "Swinject/Swinject"
+github "thoughtbot/Curry"
+github "thoughtbot/Delta"
+github "thoughtbot/Argo"
+
+#Testing
+#github "Quick/Quick" "v0.9.2"
+#github "Quick/Nimble" "v4.0.1"
